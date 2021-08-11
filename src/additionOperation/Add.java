@@ -12,6 +12,11 @@ public class Add
 		System.out.println("edit by ak ");
 		System.out.println("edited again");
 		System.out.println("change by akshay");
+		
+
+		int d=b-a;
+		System.out.println("substraction is "+ d);
+
 
 	}
 }
